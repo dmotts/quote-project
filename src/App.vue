@@ -1,9 +1,16 @@
 <template>
-    <h1>Hello World!</h1>
+    <div class="container">
+    </div>
 </template>
 
 <script>
 export default {
+    data: function() {
+        return {
+            quotes: ['Just a Quote to see something'],
+            maxQuotes: 10
+        }
+    }
 }
 </script>
 
