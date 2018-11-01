@@ -1,6 +1,6 @@
-# vue-simple
+# A VueJS Quote Application Project
 
-> A simple Vue.js project
+> A simple Vue.js quote application project
 
 ## Build Setup
 
